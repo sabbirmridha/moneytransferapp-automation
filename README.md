@@ -37,4 +37,4 @@ In Progress
 
 ## Project Sample Video
 
-In Progress
+https://drive.google.com/file/d/12xkx5whTUETXEtvyY3m3kEi1b5QhgzcY/view?usp=sharing
