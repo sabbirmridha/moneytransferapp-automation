@@ -1,0 +1,31 @@
+plugins {
+    id 'java'
+}
+
+group = 'org.example'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+    // Dependency 1 : Selenium java
+    // https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
+    implementation("org.seleniumhq.selenium:selenium-java:4.18.0")
+
+    //  Dependency 2: TestNG
+
+    // https://mvnrepository.com/artifact/org.testng/testng
+    testImplementation("org.testng:testng:7.11.0")
+
+    // Dependency 3: Java Client
+
+    // https://mvnrepository.com/artifact/io.appium/java-client
+    implementation("io.appium:java-client:9.1.0")
+
+
+
+}
+
