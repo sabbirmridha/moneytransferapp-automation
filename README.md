@@ -27,7 +27,7 @@ Before running the tests, ensure you have the following:
   - Ensure the Android device (physical or virtual) is connected.
   - Start Appium server.
 - Execute the tests:
-  - Run the parameterized test using a series:
+  - Run the test using configuring & Test Runner
   
 
 
